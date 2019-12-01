@@ -1,0 +1,5 @@
+266, 99 = Nombre avant FLOOR
+267, 225 = Stat 1
+333, 252 = Stat 2
+328, 278 = Stat 3
+393, 305 = Stat 4

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Plop!</name>
+	<coder>Minishlink</coder>
+	<version>1.0</version>
+	<short_description>An awesome XMas !</short_description> 
+	<long_description>
+		Be prepared to a maaaad game with mini Santa Claus !
+	</long_description> 
+</app>
+
